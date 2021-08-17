@@ -736,6 +736,21 @@
     prettier "^1.16.3"
     to-snake-case "^1.0.0"
 
+"@0x/contracts-zero-ex@^0.27.0":
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/@0x/contracts-zero-ex/-/contracts-zero-ex-0.27.1.tgz#968fe9d8134972cb464f7c4a33c4e4089ba9218e"
+  integrity sha512-IDc0pmMtl/92hkhOqlu+dDyIvLtGtwjjE/kdS6x+jwOyNG8sn5sbkwZ3u3PbHk72dND7E0I7BBY9VEXTB1PY/Q==
+  dependencies:
+    "@0x/base-contract" "^6.4.0"
+    "@0x/protocol-utils" "^1.8.1"
+    "@0x/subproviders" "^6.5.3"
+    "@0x/types" "^3.3.3"
+    "@0x/typescript-typings" "^5.2.0"
+    "@0x/utils" "^6.4.3"
+    "@0x/web3-wrapper" "^7.5.3"
+    ethereum-types "^3.5.0"
+    ethereumjs-util "^7.0.10"
+
 "@0x/coordinator-server@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@0x/coordinator-server/-/coordinator-server-1.0.5.tgz#3fda0d5f2af45f0baa7663ad0a5e8465b4161081"
